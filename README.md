@@ -1,36 +1,30 @@
-# HacktoberFest- Contribute to Open-Source.
+### `npm start`
 
-Create your first Pull Request 🔥(PR) and help contributing to open-source and help everyone with this repository.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Before Contributing to the Repository, Please Subscribe my channel and help me reach 1K Subscribers. Subscribe here- https://www.youtube.com/channel/UCOykz3Ssp3Q1SHPG8Mqj7PA
+ ### `About the Project`
+1. We will create our own API (helpful if we add another menu item it will automatically come in the website).
 
-FOLLOWING WILL TELL YOU HOW TO CONTRIBUTE TO HACKTOBERFEST
+
+…or create a new repository on the command line
+1. echo "# restaurant" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/shubhamsingh333/restaurant.git
+7. git push -u origin main
 
 
-# 👍 Awesome! How and What can I Contribute? 
-It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
-1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/tarunsinghofficial/HacktoberFest/fork).
-2. Create a new file and **add** a new Program code(like C++ program to implement Binary Search, etc.) in any programming language like C++, Java, Python, etc. (Note: Program must not be exist already in this repository)
-4. After adding the code, Commit your changes.
-5. Create a new pull request from your forked repository (Button located at the top of your repo)
-8. Star this repository!
 
-### Please show some love 😄 
-<a href="https://github.com/tarunsinghofficial" aria-label="Follow @tarunsinghofficial on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@tarunsinghofficial-green?style=for-the-badge"  />
-</a>
-<br>
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+…or push an existing repository from the command line
+1. git remote add origin https://github.com/shubhamsingh333/restaurant.git
+2. git branch -M main
+3. git push -u origin main
 
-***
+If hot reloading problem exists then
+1. Make a .env new file and put
 
-## Our Awesome contributors 🤩:
-<a href="https://github.com/tarunsinghofficial/HacktoberFest/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=tarunsinghofficial/HacktoberFest" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
-
--Happy programming:D
+2. FAST_REFRESH=false 
